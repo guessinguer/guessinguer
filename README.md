@@ -40,7 +40,6 @@
 - ✉️ Email: **araujo.guarnieri.gustavo@gmail.com**  
 - 💼 LinkedIn: [Gustavo Guarnieri](https://www.linkedin.com/in/gustavo-guarnieri-b19915366/)  
 - 📲 Telefone: +55 (11) 94551-3753
-- ![Disponível para oportunidades](https://img.shields.io/badge/🚀%20Aberto%20a%20oportunidades-brightgreen?style=for-the-badge)
 
 
 ---
