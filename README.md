@@ -26,6 +26,6 @@
 
 ## 📫 Contato
 - ✉️ Email: **araujo.guarnieri.gustavo@gmail.com**  
-- 💼 LinkedIn: (adicionar link do LinkedIn)  
-- 📍 Localização: São Bernardo do Campo / Califórnia  
+- 💼 LinkedIn: (https://www.linkedin.com/in/gustavo-guarnieri-b19915366/)
+- 📲 Telefone: +55 (11)94551-3753  
 
