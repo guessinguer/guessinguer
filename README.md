@@ -1,3 +1,12 @@
+<div align="center">
+
+[![English](https://img.shields.io/badge/🌐%20English-blue?style=for-the-badge)](#english-version) 
+[![Español](https://img.shields.io/badge/🌐%20Español-yellow?style=for-the-badge)](#versión-en-español)  
+
+</div>
+
+---
+
 # 👋 Olá, eu sou o Gustavo!
 
 🎓 Estudante de **Bacharelado em Tecnologia da Informação** na Universidade de Bethesda (Califórnia, EUA).  
@@ -18,6 +27,7 @@
 - 🤝 Comunicação, proatividade e trabalho em equipe  
 
 ---
+
 ## 📊 Estatísticas do GitHub
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=guessinguer&show_icons=true&theme=tokyonight)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=guessinguer&layout=compact&theme=tokyonight)  
@@ -26,6 +36,25 @@
 
 ## 📫 Contato
 - ✉️ Email: **araujo.guarnieri.gustavo@gmail.com**  
-- 💼 LinkedIn: (https://www.linkedin.com/in/gustavo-guarnieri-b19915366/)
-- 📲 Telefone: +55 (11)94551-3753  
+- 💼 LinkedIn: [Gustavo Guarnieri](https://www.linkedin.com/in/gustavo-guarnieri-b19915366/)  
+- 📲 Telefone: +55 (11) 94551-3753  
 
+---
+
+## 📌 English Version
+<a name="english-version"></a>
+
+🎓 **Bachelor’s in Information Technology** student at Bethesda University (Anaheim, California, USA).  
+💻 Interests in **software development, commercial websites, apps, and Artificial Intelligence**.  
+🌎 Multicultural experience and fluency in **Portuguese, English, and Spanish**.  
+🚀 Always seeking continuous learning and new challenges.  
+
+---
+
+## 📌 Versión en Español
+<a name="versión-en-español"></a>
+
+🎓 Estudiante de **Licenciatura en Tecnología de la Información** en la Universidad de Bethesda (Anaheim, California, EE. UU.).  
+💻 Interés en **desarrollo de software, sitios web comerciales, aplicaciones e Inteligencia Artificial**.  
+🌎 Experiencia multicultural y dominio de **Portugués, Inglés y Español**.  
+🚀 Siempre en busca de aprendizaje continuo y nuevos desafíos.  
