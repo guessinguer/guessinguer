@@ -8,6 +8,8 @@
 ---
 
 # 👋 Olá, eu sou o Gustavo!
+> "Minha missão é transformar conhecimento em soluções práticas que façam a diferença."  
+
 
 🎓 Estudante de **Bacharelado em Tecnologia da Informação** na Universidade de Bethesda (Califórnia, EUA).  
 💻 Interesse em **desenvolvimento de software, sites comerciais, apps e Inteligência Artificial**.  
